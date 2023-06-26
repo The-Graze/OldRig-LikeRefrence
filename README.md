@@ -10,3 +10,7 @@ Quick Simple thingy to help refrence the right photon voice and voice or each vr
 ![image](https://github.com/The-Graze/OldRig-LikeRefrence/assets/82724623/6c21bb0e-5f20-49b6-97dd-de5f17d5ae23)
 
 ![image](https://github.com/The-Graze/OldRig-LikeRefrence/assets/82724623/145c263f-4bd5-4cd5-8223-4dfc0614b2a4)
+
+then simply refrence the avalable things
+
+![image](https://github.com/The-Graze/OldRig-LikeRefrence/assets/82724623/ba0d1bef-c2ec-4180-a220-6d7f7e48144b)
